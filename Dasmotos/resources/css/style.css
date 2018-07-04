@@ -1,0 +1,51 @@
+h1
+{
+  font-family: helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+.image
+{
+background-image: url(file:///Users/jamesmarin/Desktop/Codecademy%20Projects/Dasmotos/resources/images/pattern.jpeg);
+
+}
+
+#brushes
+{
+font-family: helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background-color: mediumspringgreen;
+}
+
+#frames
+{
+font-family: helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background-color: lightcoral;
+}
+
+#paint
+{
+font-family: helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background-color: skyblue;
+}
+
+
+
+
+.price
+{
+  font-family: helvetica;
+  font-weight: bold;
+  color: blue;
+}
